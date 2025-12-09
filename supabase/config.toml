@@ -1,4 +1,4 @@
-project_id = "ukztixhjtgewjmkpulgp"
+project_id = "tbgqyxhgkhtirxuccipd"
 
 [functions.sync-freecharge]
 verify_jwt = false

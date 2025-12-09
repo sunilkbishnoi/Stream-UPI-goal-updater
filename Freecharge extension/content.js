@@ -1,7 +1,7 @@
 // Freecharge Transaction Sync - Content Script
 // This script runs on https://www.freecharge.in/transactions-history
 
-const API_ENDPOINT = 'https://ukztixhjtgewjmkpulgp.supabase.co/functions/v1/sync-freecharge';
+const API_ENDPOINT = 'https://tbgqyxhgkhtirxuccipd.supabase.co/functions/v1/sync-freecharge';
 
 // Parse transaction amount from string like "₹500" or "₹1,000"
 function parseAmount(amountStr) {
