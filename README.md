@@ -35,7 +35,7 @@ When used together, donations received via Freecharge UPI are fetched automatica
 
 Click below to download the Freecharge Extension ZIP file:
 
-👉 **[Download Extension (.zip)](your-zip-file-link-here)**
+👉 **[Download Extension (.zip)](Freecharge-extension.zip)**
 
 > After download → extract the zip → install manually using *Load Unpacked* in Chrome.
 
