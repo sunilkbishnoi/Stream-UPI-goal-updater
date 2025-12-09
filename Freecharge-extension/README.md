@@ -1,9 +1,3 @@
-Here is your **final cleaned, structured, simple-to-follow README** with all required Supabase steps, local hosting steps, extension setup steps & without unnecessary bulk.
-
-You can **replace your existing README.md completely with this file as-is**.
-
----
-
 # 🚀 Stream-UPI-Goal-Updater
 
 A tool for streamers to **auto-update donation goals using Freecharge UPI payments**, store transactions in Supabase & display goal overlays on OBS or browser.
